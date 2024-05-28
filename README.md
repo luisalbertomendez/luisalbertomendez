@@ -49,13 +49,23 @@ Soy un apasionado de la tecnología con una amplia experiencia en la gestión y 
 
 ## 🚀 Proyectos
 
-### Proyecto 1
-**Descripción**: Breve descripción del proyecto.
+### Red Social de Fotografías
+[Beaupicful - Frontend](https://github.com/luisalbertomendez/beaupicful_front)
 
-### Proyecto 2
-**Descripción**: Breve descripción del proyecto.
+[Beaupicful - Backend](https://github.com/luisalbertomendez/beaupicful_back)
 
-<!-- Añade más proyectos según sea necesario -->
+**Descripción**: Proyecto de red social, con autenticación por medio de cuenta de google, donde los usuarios compartes fotografías, comentan, reciben y dan me gusta a las fotos de los demás miembros.
+
+### Sistema de Nómina
+[Nómmina- Front (Menú)](https://github.com/luisalbertomendez/front_nomina_lmendez)
+
+**Descripción**: Front de sistema de nómina. Menú con opciones por usuario y rol
+
+### Calculadora Responsiva
+[Calculadora](https://github.com/luisalbertomendez/calculadora_responsiva)
+
+**Descripción**: Calculadora en JavaScript, sencilla y con interfaz responsiva
+
 
 ---
 
