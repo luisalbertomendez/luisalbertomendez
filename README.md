@@ -1,4 +1,4 @@
-# 🖥️ [Tu Nombre]
+# 🖥️ Luis Alberto Méndez
 
 **Gerente de Ciencias de la Computación**  
 **Área de la Cadena de Suministro**
@@ -43,9 +43,7 @@ Soy un apasionado de la tecnología con una amplia experiencia en la gestión y 
 
 ## 🌐 Contacto
 
-- **Email**: [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn**: [TuPerfilLinkedIn](https://www.linkedin.com/in/tu-perfil)
-- **GitHub**: [TuUsuarioGitHub](https://github.com/TuUsuarioGitHub)
+- **Email**: [luisalbertomendezmorales@gmail.com](mailto:luisalbertomendezmorales@gmail.com)
 
 ---
 
