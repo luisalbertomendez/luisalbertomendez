@@ -46,15 +46,4 @@ Soy un apasionado de la tecnología con una amplia experiencia en la gestión y 
 - **Email**: [luisalbertomendezmorales@gmail.com](mailto:luisalbertomendezmorales@gmail.com)
 
 ---
-
-**Descripción**: Front de sistema de nómina. Menú con opciones por usuario y rol
-
-### Calculadora Responsiva
-[Calculadora](https://github.com/luisalbertomendez/calculadora_responsiva)
-
-**Descripción**: Calculadora en JavaScript, sencilla y con interfaz responsiva
-
-
----
-
 ¡Gracias por visitar mi perfil! Si tienes algún proyecto interesante o deseas colaborar, no dudes en contactarme.
